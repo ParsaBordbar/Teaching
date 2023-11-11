@@ -19,12 +19,14 @@ The Topics from C language that are Coverd in this Rep are:
 - Constants
 - Switch Case
 - booleans
-- arrys
+- arrays
 - strings
 - math lib in C
 - functions
 - pointers
-- stractures 
+- stractures
+
+
 and of course some exercises.
 
 ## **Python**
