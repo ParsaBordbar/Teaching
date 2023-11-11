@@ -40,5 +40,6 @@ The Following are the Topics that will be added in Python dir:
 - Jupytr notebook
 - numpy Library
 - Python for EveryBody DataStructures Assignments
-- regex 
-And ofcourse other Examoles and fun stuff!
+- regex
+  
+  And ofcourse other Examoles and fun stuff!
