@@ -42,4 +42,4 @@ The Following are the Topics that will be added in Python dir:
 - Python for EveryBody DataStructures Assignments
 - regex
   
-  And ofcourse other Examoles and fun stuff!
+  And ofcourse other Examples and fun stuff!
