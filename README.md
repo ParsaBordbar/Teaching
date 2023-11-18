@@ -34,8 +34,12 @@ Then we have Python sections that will be updated with alot more topics in futur
 The Following are the Topics that will be added in Python dir:
 
 - Data Structures
-- Search Algorithm (i.g. Binary Search)
-- Sorting Algorithm
-- numpy Library
-- regex 
+- Recursive Functions 
+- Search Algorithms (i.g. Binary Search)
+- Sorting Algorithms
 - Jupytr notebook
+- numpy Library
+- Python for EveryBody DataStructures Assignments
+- regex
+  
+  And ofcourse other Examples and fun stuff!
