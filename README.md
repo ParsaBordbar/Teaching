@@ -3,7 +3,7 @@
 
 Welcome!
 
-    printf("HELLO WORLD! 😎);
+    printf("HELLO WORLD! 😎");
 
  in this repo we are learning some topics from University, We learn C and programming concepts from step one. 
 
