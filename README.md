@@ -3,7 +3,7 @@
 
 Welcome!
 
-    printf("HELLO WORLD! 😎);
+    printf("HELLO WORLD! 😎");
 
  in this repo we are learning some topics from University, We learn C and programming concepts from step one. 
 
@@ -18,13 +18,13 @@ The Topics from C language that are Coverd in this Rep are:
 - Loops (for , while, do while)
 - Constants
 - Switch Case
-- booleans
-- arrays
-- strings
-- math lib in C
-- functions
-- pointers
-- stractures
+- Booleans
+- Arrays
+- Strings
+- Math lib in C
+- Functions
+- Pointers
+- Stractures
 
 
 and of course some exercises.
