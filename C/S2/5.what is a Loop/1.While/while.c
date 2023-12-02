@@ -17,13 +17,14 @@ int main(){
     it iterate till the condition is false */
     
     printf("This is a while loop:\n");
-    while (i < 10) {
-    printf("This is the %d Line \n", i);
-    i++;
-    }
+
+    // while (i < 10) {
+    // printf("This is the %d Line \n", i);
+    // i++;
+    // }
 
     while (i < 10) {
-    printf("This is the %d Line \n", i++); 
+    printf("This is the %d Line \n", ++i); 
     }
 
     //DO NOT FORGET => to update the iterator value!

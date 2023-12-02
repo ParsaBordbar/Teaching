@@ -18,7 +18,7 @@ int main(){
     It is a good practice to name Constants
     with UpperCase letters */
 
-    const int MYFAVORITECHAR = 'M';
+    const char MYFAVORITECHAR = 'M';
     
 return 0;
 }
