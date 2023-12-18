@@ -6,6 +6,7 @@ constants (unchangeable values).
 */
 
 int main() {
+
     enum Difficulty {
     EASE,    //0
     MEDIUM, //1
@@ -26,7 +27,7 @@ int main() {
         Sunday
     };
 
-    enum MothDays {
+    enum MonthDays {
         FIRST = 1,
         SECOND, //This one has value of 2
         THIRD,  //This one has value of 3
