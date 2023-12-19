@@ -13,7 +13,7 @@ int main() {
 //     code block
 // }
 
-    int num = 2;
+    int num = 3;
 
     //Switch case
     printf("Using switch case:\n");
