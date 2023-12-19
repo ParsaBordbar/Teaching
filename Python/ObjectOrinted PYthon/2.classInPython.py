@@ -6,16 +6,16 @@ class Singer:
         self.genre = genre
         self.famousTrack = famousTrack
         
-    def sing(self, name):
-        print(name, 'is singing', self.famousTrack)
+    def sing(self):
+        print(self.name, 'is singing', self.famousTrack)
         
     def printSinger(self):
         print(f'name:', self.name ,'genre:', self.genre, 'famousTrack:', self.famousTrack)
 
 #What is an Instance
 mj = Singer('Michel Jackson', 'pop', 'Billie Jean')
-mj.sing('Michel Jackson')
+mj.sing()
 mj.printSinger()
 
 taylorSwift = Singer('Taylor Swift', 'pop', 'You Belong with Me.')
-taylorSwift.sing('Taylor')
+taylorSwift.sing()

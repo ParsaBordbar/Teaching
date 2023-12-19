@@ -24,7 +24,7 @@ The Topics from C language that are Coverd in this Rep are:
 - Math lib in C
 - Functions
 - Pointers
-- Stractures
+- Structures
 
 
 and of course some exercises.
