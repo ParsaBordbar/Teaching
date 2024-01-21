@@ -1,9 +1,6 @@
 
 Welcome to our learning hub! Here, we dive into the world of programming, starting from the basics and gradually progressing to more advanced concepts. Our journey begins with a simple:
-
 ```
-# Programming Fundamentals
-
 
 ```c
 printf("HELLO WORLD! 😎");
