@@ -42,4 +42,3 @@ We also explore Python, a versatile language known for its simplicity and robust
 - Regular Expressions (regex)
 
 Stay tuned for more exciting topics, examples, and fun coding challenges!
-```
