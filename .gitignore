@@ -1,0 +1,139 @@
+# =========================
+# General
+# =========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# =========================
+# C / C++
+# =========================
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+
+# Autotools
+aclocal.m4
+autom4te.cache/
+configure
+config.log
+config.status
+libtool
+m4/
+
+# Build directories
+build/
+bin/
+obj/
+
+# =========================
+# Python
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checkers
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# =========================
+# Lua
+# =========================
+
+# Lua bytecode
+*.luac
+
+# LuaRocks
+luarocks/
+*.rock
+*.rockspec
+
+# Love2D build artifacts (if applicable)
+*.love
+
+# =========================
+# Coverage / Profiling
+# =========================
+*.gcda
+*.gcno
+*.gcov
+
+# =========================
+# OS-specific
+# =========================
+*.stackdump
+
+**.env
+**.vscode
